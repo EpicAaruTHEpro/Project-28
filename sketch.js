@@ -70,7 +70,7 @@ function draw() {
   detectCollision(stone, mango9);
   detectCollision(stone, mango10);
 
-  drawSprites();
+  text("Press Space to Hit Again", 400, 200);
  
 }
 
